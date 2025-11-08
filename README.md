@@ -2,3 +2,5 @@
 
 ## Description
 I have successfully completed the component replication assignment. The task involved replicating a specified component using HTML, CSS, and JavaScript, ensuring it mirrors the original design's aesthetics and functionality.
+## Description
+Deployed  link : https://ellty-assignment1.netlify.app/
